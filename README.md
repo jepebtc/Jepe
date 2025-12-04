@@ -1,2 +1,2 @@
 # Jepe
-I'm a beginner, can you explain the use of GitHub?
+I'm a beginner
